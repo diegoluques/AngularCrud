@@ -1,5 +1,8 @@
 # AngularCrud
-Projeto Crud de produtos.
+Projeto Crud de produtos
 
-## Tecnologias Front
+## Front
 * Angular CLI 9.1.4
+
+## Backend
+* Json Server
