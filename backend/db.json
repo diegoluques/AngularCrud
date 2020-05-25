@@ -19,6 +19,11 @@
       "id": 4,
       "name": "Caneta Bic Preta",
       "price": 5.89
+    },
+    {
+      "name": "Produto de teste",
+      "price": 1200,
+      "id": 5
     }
   ]
 }
