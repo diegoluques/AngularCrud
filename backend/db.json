@@ -29,6 +29,11 @@
       "name": "Diego Luques",
       "price": "1999,00",
       "id": 6
+    },
+    {
+      "name": "Eu em ",
+      "price": "1,99",
+      "id": 7
     }
   ]
 }
