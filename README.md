@@ -7,3 +7,6 @@ Projeto Crud de produtos
 
 ### Backend
 * Json Server
+
+### Temas abordados
+* Componentes, Diretivas, Services, Observables, RxJS, Pipes, Injeção de Dependência e muito mais.

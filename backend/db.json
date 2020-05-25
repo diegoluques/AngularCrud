@@ -2,18 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta Bic Preta",
-      "price": 5.89
-    },
-    {
-      "id": 2,
-      "name": "Caneta Bic Preta",
-      "price": 5.89
-    },
-    {
-      "id": 3,
-      "name": "Caneta Bic Preta",
-      "price": 5.89
+      "name": "Caneta Bic Preta - 2",
+      "price": "1.89"
     },
     {
       "id": 4,
@@ -21,19 +11,14 @@
       "price": 5.89
     },
     {
-      "name": "Produto de teste",
-      "price": 1200,
+      "name": "Produto de teste 1",
+      "price": "12001",
       "id": 5
     },
     {
-      "name": "Diego Luques",
-      "price": "1999,00",
+      "name": "Caderno ",
+      "price": "1599",
       "id": 6
-    },
-    {
-      "name": "Eu em ",
-      "price": "1,99",
-      "id": 7
     }
   ]
 }
