@@ -3,8 +3,7 @@ import { Injectable } from '@angular/core';
 import { MatSnackBar } from '@angular/material/snack-bar';
 import { HttpClient } from '@angular/common/http';
 import { Product } from './product.model'
-import { Observable, empty, EMPTY } from 'rxjs';
-import { THIS_EXPR } from '@angular/compiler/src/output/output_ast';
+import { Observable,  EMPTY } from 'rxjs'; 
 
 @Injectable({
   providedIn: 'root'
